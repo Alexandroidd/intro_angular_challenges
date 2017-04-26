@@ -27,6 +27,13 @@ You will need to make changes in `index.html` and `app.js`.
     * Create a simple calculator
     * Create a loan interest calculator
 
+1 month accrued and total are the same.
+
+2 month accured is based off the percentage from 1st month total, then 2nd month total is 1 month total plus 2nd month accrued
+
+
+
+
 
 
 ## Licensing
